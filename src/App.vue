@@ -4,7 +4,7 @@
       <h1>My Friends</h1>
     </header>
     <ul>
-      <friend-contact name="Hero-1" phone="0123 45678 90" email="abcd@gmail.com"></friend-contact>
+      <friend-contact name="Hero-6" phone="0123 45678 90" email="abcd@gmail.com"></friend-contact>
       <friend-contact name="Hero-2" phone="55458 62658" email="igeig@gmail.com"></friend-contact>
     </ul>
   </section>
